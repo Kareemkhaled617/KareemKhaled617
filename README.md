@@ -72,3 +72,7 @@ Experienced in delivering cross-platform apps across **e-commerce, food delivery
 ## 📫 Contact
 📧 Kareemkhaled617@gmail.com  
 💼 https://www.linkedin.com/in/kareem-khaled-28581a202/
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KareemKhaled617/.github/output/github-contribution-grid-snake.svg" />
+</p>
